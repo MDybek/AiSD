@@ -1,6 +1,6 @@
 |||
 | :-----------:  |   :-------------------------:      | 
-| **Course name**   | algorithms and data structures  |
+| **Course name**   | Algorithms and Data Structures  |
 | **Course type**   | Laboratory                      | 
 | **Teacher**        | Dariusz Konieczny Dr           | 
 | **Field of study** | Applied Computer Science       | 
